@@ -1,0 +1,3 @@
+C = float(input("Nhập độ C : "))
+F = 1.8 * C + 32
+print(F"Độ F = {round(F,2)}")
